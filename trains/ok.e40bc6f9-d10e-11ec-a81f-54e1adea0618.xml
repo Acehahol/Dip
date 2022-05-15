@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ok</folder>
+	<filename>ok.e40bc6f9-d10e-11ec-a81f-54e1adea0618.jpg</filename>
+	<path>C:\Users\vlad\Git\TFODCourse\Tensorflow\workspace\images\collectedimages\ok\ok.e40bc6f9-d10e-11ec-a81f-54e1adea0618.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ok</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>305</xmin>
+			<ymin>183</ymin>
+			<xmax>476</xmax>
+			<ymax>397</ymax>
+		</bndbox>
+	</object>
+</annotation>
